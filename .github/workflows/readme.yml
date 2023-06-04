@@ -1,0 +1,40 @@
+name: README
+on:
+  # Schedule daily updates
+  schedule:
+    - cron: "0 0 * * *"
+  # Run workflow when pushing on master/main
+  push:
+    branches:
+      - main
+
+jobs:
+  update_github_status:
+    name: Update GitHub status
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Setup Go
+        uses: actions/setup-go@v3
+
+      - name: Install markscribe
+        run: go install github.com/muesli/markscribe@master
+
+      - name: Fetch latest GitHub statuses
+        env:
+          GITHUB_TOKEN: ${{ secrets.MARKSCRIBE_TOKEN }}
+        run: |
+          export PATH=${PATH}:`go env GOPATH`/bin
+          markscribe -write README.md README.md.tpl
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "build: generate GitHub status"
+          commit_options: "--signoff"
