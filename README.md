@@ -1,29 +1,22 @@
-## Hello
+# Hello
 I'm Chris. I'm a web application designer and developer who lives in Charlotte, North Carolina. I love to work with TypeScript and Angular projects.
 
 
-#### Contact me
+## Contact me
 
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/domain.png"   alt="My Portfolio Website" />][http://chrisbarr.me]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/github.png"   alt="FiniteLooper | GitHub" />][http://github.com/FiniteLooper]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/linkedin.svg" alt="Chris Barr | LinkedIn" />][https://linkedin.com/in/chrismbarr]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/reddit.svg"   alt="FiniteLooper | Reddit" />][https://www.reddit.com/user/Finite_Looper]
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/domain.png"   alt="My Portfolio Website" />](http://chrisbarr.me)
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/github.png"   alt="FiniteLooper | GitHub" />](http://github.com/FiniteLooper)
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/linkedin.svg" alt="Chris Barr | LinkedIn" />](https://linkedin.com/in/chrismbarr)
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/reddit.svg"   alt="FiniteLooper | Reddit" />](https://www.reddit.com/user/Finite_Looper)
 
+<br/>
 
-#### Check out what I'm currently working on
+## What I'm currently working on
 
 - [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (today)
 - [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (today)
 - [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (today)
 - [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats. (1 week ago)
-
-#### My latest projects
-
-- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files.
-- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files
-- [FiniteLooper/raspberry-pi-cat-feeder](https://github.com/FiniteLooper/raspberry-pi-cat-feeder) - A raspberry pi based automated cat food dispenser
-- [FiniteLooper/txt-to-pro-presenter](https://github.com/FiniteLooper/txt-to-pro-presenter) - Converts plain text to a formatted ProPresenter 5 document
-- [FiniteLooper/wodify-whiteboard-data](https://github.com/FiniteLooper/wodify-whiteboard-data) - Extract the data from the whiteboard view of Wodify.com
 
 #### Latest releases I've contributed to
 
@@ -31,7 +24,7 @@ I'm Chris. I'm a web application designer and developer who lives in Charlotte, 
 - [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v1.0.0](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v1.0.0), 1 day ago) - Parses and extracts data from SongShow Plus files
 - [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) ([v0.1.2](https://github.com/SongProOrg/songpro-javascript/releases/tag/v0.1.2), 1 week ago) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats.
 
-#### Latest Pull Requests I published
+#### Latest Pull Requests
 
 - [Redesign](https://github.com/FiniteLooper/LyricConverter/pull/11) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (1 day ago)
 - [update base href for prod build](https://github.com/FiniteLooper/LyricConverter/pull/9) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (4 days ago)
@@ -64,7 +57,7 @@ I'm Chris. I'm a web application designer and developer who lives in Charlotte, 
 
 #### Like what I do?  You can donate to me!
 
-[<img align="left" height="32px" src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg"  alt="Donate to FiniteLooper via Paypal" />][https://paypal.me/chrisbarr]
+[<img align="left" height="32px" src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg"  alt="Donate to FiniteLooper via Paypal" />](https://paypal.me/chrisbarr)
 
 
 ### My GitHub Metrics
