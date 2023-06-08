@@ -1,5 +1,5 @@
 # Hello
-I'm Chris. I'm a web application designer and developer who lives in Charlotte, North Carolina. I love to work with TypeScript and Angular projects.
+I'm Chris. I'm a web application UI developer & designer who lives in Charlotte, North Carolina. I love to work with TypeScript and Angular projects.
 
 
 ## Find me online
@@ -7,7 +7,6 @@ I'm Chris. I'm a web application designer and developer who lives in Charlotte, 
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/github.png"   alt="FiniteLooper | GitHub" />](http://github.com/FiniteLooper)
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/linkedin.svg" alt="Chris Barr | LinkedIn" />](https://linkedin.com/in/chrismbarr)
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/stackoverflow.svg" alt="Chris Barr | Stack Overflow" />](https://stackoverflow.com/users/79677/finitelooper)
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/reddit.svg"   alt="FiniteLooper | Reddit" />](https://www.reddit.com/user/Finite_Looper)
 
 <br/>
 
