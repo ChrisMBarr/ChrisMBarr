@@ -20,14 +20,14 @@ I'm Chris. I'm a web application designer and developer who lives in Charlotte, 
 
 ### Latest releases I've contributed to
 
-- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.0.0](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.0.0), 1 day ago) - Parses and extract data from OpenLyrics XML files.
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1-redesign](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1-redesign), 4 days ago) - The universal translator & converter for song presentation files!
-- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v1.0.0](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v1.0.0), 4 days ago) - Parses and extracts data from SongShow Plus files
+- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.0.0](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.0.0), 2 days ago) - Parses and extract data from OpenLyrics XML files.
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1-redesign](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1-redesign), 5 days ago) - The universal translator & converter for song presentation files!
+- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v1.0.0](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v1.0.0), 5 days ago) - Parses and extracts data from SongShow Plus files
 - [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) ([v0.1.2](https://github.com/SongProOrg/songpro-javascript/releases/tag/v0.1.2), 1 week ago) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats.
 
 ### Latest Pull Requests
 
-- [Redesign](https://github.com/FiniteLooper/LyricConverter/pull/11) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (4 days ago)
+- [Redesign](https://github.com/FiniteLooper/LyricConverter/pull/11) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (5 days ago)
 - [update base href for prod build](https://github.com/FiniteLooper/LyricConverter/pull/9) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (1 week ago)
 - [Spelling fixes in Docs & Test Descriptions](https://github.com/NaturalIntelligence/fast-xml-parser/pull/580) on [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) (1 week ago)
 - [Change the typedefs and docs for updateTag to match how FXP actually behaves](https://github.com/NaturalIntelligence/fast-xml-parser/pull/579) on [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) (1 week ago)
