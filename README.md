@@ -1,5 +1,5 @@
 # Hello
-I'm Chris. I'm a web application designer and developer who lives in Charlotte, North Carolina. I love to work with TypeScript and Angular projects.
+I'm Chris. I'm a web application UI developer & designer who lives in Charlotte, North Carolina. I love to work with TypeScript and Angular projects.
 
 
 ## Find me online
