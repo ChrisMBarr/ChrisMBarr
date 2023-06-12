@@ -12,22 +12,22 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (1 day ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (4 days ago)
-- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (4 days ago)
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 day ago)
+- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (1 day ago)
+- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (2 days ago)
 - [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats. (2 weeks ago)
 
 ### Latest releases I've contributed to
 
-- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.1.0](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.1.0), today) - Parses and extract data from OpenLyrics XML files.
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1-redesign](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1-redesign), 1 week ago) - The universal translator & converter for song presentation files!
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1.1](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1.1), 1 day ago) - The universal translator & converter for song presentation files!
+- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.1.0](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.1.0), 1 day ago) - Parses and extract data from OpenLyrics XML files.
 - [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v1.0.0](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v1.0.0), 1 week ago) - Parses and extracts data from SongShow Plus files
 - [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) ([v0.1.2](https://github.com/SongProOrg/songpro-javascript/releases/tag/v0.1.2), 2 weeks ago) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats.
 
 ### Latest Pull Requests
 
-- [Use OpenLyrics Parser for building XML files](https://github.com/FiniteLooper/LyricConverter/pull/13) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (today)
-- [Build OpenLyrics XML files](https://github.com/FiniteLooper/OpenLyrics-parser/pull/1) on [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) (today)
+- [Use OpenLyrics Parser for building XML files](https://github.com/FiniteLooper/LyricConverter/pull/13) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (1 day ago)
+- [Build OpenLyrics XML files](https://github.com/FiniteLooper/OpenLyrics-parser/pull/1) on [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) (1 day ago)
 - [Redesign](https://github.com/FiniteLooper/LyricConverter/pull/11) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (1 week ago)
 - [update base href for prod build](https://github.com/FiniteLooper/LyricConverter/pull/9) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (1 week ago)
 - [Spelling fixes in Docs & Test Descriptions](https://github.com/NaturalIntelligence/fast-xml-parser/pull/580) on [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) (2 weeks ago)
