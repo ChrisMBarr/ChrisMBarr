@@ -12,22 +12,22 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files to extract the data (1 day ago)
-- [FiniteLooper/abr-coding-challenge](https://github.com/FiniteLooper/abr-coding-challenge) (3 days ago)
-- [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats. (5 days ago)
-- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (6 days ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (6 days ago)
+- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files to extract the data (2 days ago)
+- [FiniteLooper/abr-coding-challenge](https://github.com/FiniteLooper/abr-coding-challenge) (4 days ago)
+- [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats. (6 days ago)
+- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (1 week ago)
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 week ago)
 
 ### Latest releases I've contributed to
 
-- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.1.2](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.1.2), 6 days ago) - Parses and extract data from OpenLyrics XML files.
+- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.1.2](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.1.2), 1 week ago) - Parses and extract data from OpenLyrics XML files.
 - [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1.1](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1.1), 1 week ago) - The universal translator & converter for song presentation files!
 - [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v1.0.0](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v1.0.0), 2 weeks ago) - Parses and extracts data from SongShow Plus files
 - [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) ([v0.1.2](https://github.com/SongProOrg/songpro-javascript/releases/tag/v0.1.2), 3 weeks ago) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats.
 
 ### Latest Pull Requests
 
-- [Better Module Setup](https://github.com/SongProOrg/songpro-javascript/pull/36) on [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) (6 days ago)
+- [Better Module Setup](https://github.com/SongProOrg/songpro-javascript/pull/36) on [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) (1 week ago)
 - [Use OpenLyrics Parser for building XML files](https://github.com/FiniteLooper/LyricConverter/pull/13) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (1 week ago)
 - [Build OpenLyrics XML files](https://github.com/FiniteLooper/OpenLyrics-parser/pull/1) on [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) (1 week ago)
 - [Redesign](https://github.com/FiniteLooper/LyricConverter/pull/11) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (2 weeks ago)
