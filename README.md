@@ -13,7 +13,7 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 ## What I'm currently working on
 
 - [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files to extract the data (1 day ago)
-- [FiniteLooper/abr-coding-challenge](https://github.com/FiniteLooper/abr-coding-challenge) (5 days ago)
+- [FiniteLooper/abr-coding-challenge](https://github.com/FiniteLooper/abr-coding-challenge) (6 days ago)
 - [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats. (1 week ago)
 - [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (1 week ago)
 - [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 week ago)
@@ -31,7 +31,7 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 - [Use OpenLyrics Parser for building XML files](https://github.com/FiniteLooper/LyricConverter/pull/13) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (1 week ago)
 - [Build OpenLyrics XML files](https://github.com/FiniteLooper/OpenLyrics-parser/pull/1) on [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) (1 week ago)
 - [Redesign](https://github.com/FiniteLooper/LyricConverter/pull/11) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (2 weeks ago)
-- [update base href for prod build](https://github.com/FiniteLooper/LyricConverter/pull/9) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (2 weeks ago)
+- [update base href for prod build](https://github.com/FiniteLooper/LyricConverter/pull/9) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (3 weeks ago)
 
 
 ## My Stats
