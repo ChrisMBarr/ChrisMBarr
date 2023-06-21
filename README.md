@@ -3,16 +3,17 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 
 ## Find me online
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/domain.png"   alt="My Portfolio Website" />](http://chrisbarr.me)
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/github.png"   alt="FiniteLooper | GitHub" />](http://github.com/FiniteLooper)
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/linkedin.svg" alt="Chris Barr | LinkedIn" />](https://linkedin.com/in/chrismbarr)
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/stackoverflow.svg" alt="Chris Barr | Stack Overflow" />](https://stackoverflow.com/users/79677/finitelooper)
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/domain.png"               alt="My Portfolio Website" />](http://chrisbarr.me)
+[<img align="left" width="32px" src="https://img.icons8.com/?size=2x&id=uf5LbKlNfuhx&format=png" alt="Mastodon" />](https://hachyderm.io/@FiniteLooper)
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/github.png"               alt="FiniteLooper | GitHub" />](http://github.com/FiniteLooper)
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/linkedin.svg"             alt="Chris Barr | LinkedIn" />](https://linkedin.com/in/chrismbarr)
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/stackoverflow.svg"        alt="Chris Barr | Stack Overflow" />](https://stackoverflow.com/users/79677/finitelooper)
 
 <br/>
 
 ## What I'm currently working on
 
-- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files to extract the data (1 day ago)
+- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (1 day ago)
 - [FiniteLooper/abr-coding-challenge](https://github.com/FiniteLooper/abr-coding-challenge) (6 days ago)
 - [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats. (1 week ago)
 - [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (1 week ago)
@@ -20,6 +21,7 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ### Latest releases I've contributed to
 
+- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) ([v1.0.0](https://github.com/FiniteLooper/ProPresenter-Parser/releases/tag/v1.0.0), today) - Parses ProPresenter files, and builds new ProPresenter files
 - [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.1.2](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.1.2), 1 week ago) - Parses and extract data from OpenLyrics XML files.
 - [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1.1](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1.1), 1 week ago) - The universal translator & converter for song presentation files!
 - [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v1.0.0](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v1.0.0), 2 weeks ago) - Parses and extracts data from SongShow Plus files
