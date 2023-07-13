@@ -14,14 +14,14 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 ## What I'm currently working on
 
 - [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (1 day ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 day ago)
-- [Landmark-Analytics/.github](https://github.com/Landmark-Analytics/.github) (2 weeks ago)
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (2 days ago)
+- [Landmark-Analytics/.github](https://github.com/Landmark-Analytics/.github) (3 weeks ago)
 - [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (3 weeks ago)
 - [FiniteLooper/finitelooper.github.io](https://github.com/FiniteLooper/finitelooper.github.io) (3 weeks ago)
 
 ### Latest releases I've contributed to
 
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([3.1.2](https://github.com/FiniteLooper/LyricConverter/releases/tag/3.1.2), 2 weeks ago) - The universal translator & converter for song presentation files!
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([3.1.2](https://github.com/FiniteLooper/LyricConverter/releases/tag/3.1.2), 3 weeks ago) - The universal translator & converter for song presentation files!
 - [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) ([v1.0.1](https://github.com/FiniteLooper/ProPresenter-Parser/releases/tag/v1.0.1), 3 weeks ago) - Parses ProPresenter files, and builds new ProPresenter files
 - [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.1.2](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.1.2), 1 month ago) - Parses and extract data from OpenLyrics XML files.
 - [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v1.0.0](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v1.0.0), 1 month ago) - Parses and extracts data from SongShow Plus files
