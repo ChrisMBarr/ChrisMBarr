@@ -13,8 +13,8 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (1 day ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (3 days ago)
+- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (2 days ago)
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (4 days ago)
 - [Landmark-Analytics/.github](https://github.com/Landmark-Analytics/.github) (3 weeks ago)
 - [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (3 weeks ago)
 - [FiniteLooper/finitelooper.github.io](https://github.com/FiniteLooper/finitelooper.github.io) (3 weeks ago)
@@ -29,7 +29,7 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ### Latest Pull Requests
 
-- [Redesign](https://github.com/FiniteLooper/chrisbarr.me/pull/1) on [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) (1 week ago)
+- [Redesign](https://github.com/FiniteLooper/chrisbarr.me/pull/1) on [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) (2 weeks ago)
 - [Better Module Setup](https://github.com/SongProOrg/songpro-javascript/pull/36) on [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) (1 month ago)
 - [Use OpenLyrics Parser for building XML files](https://github.com/FiniteLooper/LyricConverter/pull/13) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (1 month ago)
 - [Build OpenLyrics XML files](https://github.com/FiniteLooper/OpenLyrics-parser/pull/1) on [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) (1 month ago)
