@@ -13,16 +13,16 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (1 day ago)
 - [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (1 day ago)
-- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (3 days ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (3 days ago)
-- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (3 days ago)
+- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (2 days ago)
+- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (4 days ago)
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (4 days ago)
+- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (4 days ago)
 
 ### Latest releases I've contributed to
 
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1.5](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1.5), 3 days ago) - The universal translator & converter for song presentation files!
-- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.1.5](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.1.5), 3 days ago) - Parses and extract data from OpenLyrics XML files.
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1.5](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1.5), 4 days ago) - The universal translator & converter for song presentation files!
+- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.1.5](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.1.5), 4 days ago) - Parses and extract data from OpenLyrics XML files.
 - [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v1.0.1](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v1.0.1), 3 weeks ago) - Parses and extracts data from SongShow Plus files
 - [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) ([v1.0.2](https://github.com/FiniteLooper/ProPresenter-Parser/releases/tag/v1.0.2), 3 weeks ago) - Parses ProPresenter files, and builds new ProPresenter files
 - [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) ([v0.1.2](https://github.com/SongProOrg/songpro-javascript/releases/tag/v0.1.2), 2 months ago) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats.
@@ -31,7 +31,7 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 - [Create dependabot.yml](https://github.com/FiniteLooper/LyricConverter/pull/14) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (3 weeks ago)
 - [Redesign](https://github.com/FiniteLooper/chrisbarr.me/pull/1) on [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) (1 month ago)
-- [Better Module Setup](https://github.com/SongProOrg/songpro-javascript/pull/36) on [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) (1 month ago)
+- [Better Module Setup](https://github.com/SongProOrg/songpro-javascript/pull/36) on [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) (2 months ago)
 - [Use OpenLyrics Parser for building XML files](https://github.com/FiniteLooper/LyricConverter/pull/13) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (2 months ago)
 - [Build OpenLyrics XML files](https://github.com/FiniteLooper/OpenLyrics-parser/pull/1) on [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) (2 months ago)
 
