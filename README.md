@@ -7,7 +7,7 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 [<img align="left" width="32px" src="https://img.icons8.com/?size=2x&id=uf5LbKlNfuhx&format=png" alt="Mastodon" />](https://hachyderm.io/@FiniteLooper)
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/github.png"               alt="FiniteLooper | GitHub" />](http://github.com/FiniteLooper)
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/linkedin.svg"             alt="Chris Barr | LinkedIn" />](https://linkedin.com/in/chrismbarr)
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/stackoverflow.svg"        alt="Chris Barr | Stack Overflow" />](https://stackoverflow.com/users/79677/finitelooper)
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/stackoverflow.svg"        alt="Chris Barr | Stack Overflow" />](https://stackoverflow.com/users/79677/chris-barr)
 
 <br/>
 
@@ -29,11 +29,11 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ### Latest Pull Requests
 
+- [Add support for Vimeo videos](https://github.com/MurhafSousli/ngx-gallery/pull/575) on [MurhafSousli/ngx-gallery](https://github.com/MurhafSousli/ngx-gallery) (today)
 - [Create dependabot.yml](https://github.com/FiniteLooper/LyricConverter/pull/14) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (1 month ago)
 - [Redesign](https://github.com/FiniteLooper/chrisbarr.me/pull/1) on [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) (1 month ago)
 - [Better Module Setup](https://github.com/SongProOrg/songpro-javascript/pull/36) on [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) (2 months ago)
 - [Use OpenLyrics Parser for building XML files](https://github.com/FiniteLooper/LyricConverter/pull/13) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (2 months ago)
-- [Build OpenLyrics XML files](https://github.com/FiniteLooper/OpenLyrics-parser/pull/1) on [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) (2 months ago)
 
 
 ## My Stats
