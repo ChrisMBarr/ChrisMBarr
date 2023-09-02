@@ -13,15 +13,15 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (2 days ago)
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (4 days ago)
-- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (1 week ago)
+- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (1 day ago)
+- [FiniteLooper/npm-typescript-with-html-reporter-template](https://github.com/FiniteLooper/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (1 day ago)
+- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (3 days ago)
+- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (5 days ago)
 - [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (1 week ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 week ago)
 
 ### Latest releases I've contributed to
 
-- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v2.0.4](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v2.0.4), 2 days ago) - Parses and extracts data from SongShow Plus files
+- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v2.0.4](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v2.0.4), 3 days ago) - Parses and extracts data from SongShow Plus files
 - [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1.5](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1.5), 3 weeks ago) - The universal translator & converter for song presentation files!
 - [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.1.5](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.1.5), 3 weeks ago) - Parses and extract data from OpenLyrics XML files.
 - [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) ([v1.0.2](https://github.com/FiniteLooper/ProPresenter-Parser/releases/tag/v1.0.2), 1 month ago) - Parses ProPresenter files, and builds new ProPresenter files
