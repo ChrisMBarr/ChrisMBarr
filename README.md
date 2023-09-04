@@ -13,17 +13,17 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (1 day ago)
 - [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 day ago)
-- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (1 day ago)
-- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (1 day ago)
-- [FiniteLooper/npm-typescript-template](https://github.com/FiniteLooper/npm-typescript-template) - A template repo for NPM packages written in TypeScript. This is a good starting point for lot of projects (1 day ago)
+- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (2 days ago)
+- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (2 days ago)
+- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (2 days ago)
+- [FiniteLooper/npm-typescript-template](https://github.com/FiniteLooper/npm-typescript-template) - A template repo for NPM packages written in TypeScript. This is a good starting point for lot of projects (2 days ago)
 
 ### Latest releases I've contributed to
 
-- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v2.0.4](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v2.0.4), 4 days ago) - Parses and extracts data from SongShow Plus files
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1.5](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1.5), 3 weeks ago) - The universal translator & converter for song presentation files!
-- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.1.5](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.1.5), 3 weeks ago) - Parses and extract data from OpenLyrics XML files.
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1.6](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1.6), 1 day ago) - The universal translator & converter for song presentation files!
+- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v2.0.4](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v2.0.4), 5 days ago) - Parses and extracts data from SongShow Plus files
+- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.1.5](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.1.5), 4 weeks ago) - Parses and extract data from OpenLyrics XML files.
 - [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) ([v1.0.2](https://github.com/FiniteLooper/ProPresenter-Parser/releases/tag/v1.0.2), 1 month ago) - Parses ProPresenter files, and builds new ProPresenter files
 - [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) ([v0.1.2](https://github.com/SongProOrg/songpro-javascript/releases/tag/v0.1.2), 3 months ago) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats.
 
