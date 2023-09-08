@@ -13,15 +13,15 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (1 day ago)
-- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (2 days ago)
-- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (2 days ago)
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (3 days ago)
-- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (3 days ago)
+- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (2 days ago)
+- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (3 days ago)
+- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (3 days ago)
+- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (4 days ago)
+- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (4 days ago)
 
 ### Latest releases I've contributed to
 
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1.6](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1.6), 4 days ago) - The universal translator & converter for song presentation files!
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1.6](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1.6), 5 days ago) - The universal translator & converter for song presentation files!
 - [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v2.0.4](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v2.0.4), 1 week ago) - Parses and extracts data from SongShow Plus files
 - [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.1.5](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.1.5), 1 month ago) - Parses and extract data from OpenLyrics XML files.
 - [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) ([v1.0.2](https://github.com/FiniteLooper/ProPresenter-Parser/releases/tag/v1.0.2), 1 month ago) - Parses ProPresenter files, and builds new ProPresenter files
