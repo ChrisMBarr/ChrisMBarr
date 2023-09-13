@@ -13,23 +13,23 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 day ago)
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (1 day ago)
-- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (1 day ago)
-- [FiniteLooper/npm-typescript-with-html-reporter-template](https://github.com/FiniteLooper/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (1 day ago)
-- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (2 days ago)
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (2 days ago)
+- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (2 days ago)
+- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (2 days ago)
+- [FiniteLooper/npm-typescript-with-html-reporter-template](https://github.com/FiniteLooper/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (2 days ago)
+- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (3 days ago)
 
 ### Latest releases I've contributed to
 
 - [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) ([v3.1.6](https://github.com/FiniteLooper/LyricConverter/releases/tag/v3.1.6), 1 week ago) - The universal translator & converter for song presentation files!
-- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v2.0.4](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v2.0.4), 1 week ago) - Parses and extracts data from SongShow Plus files
+- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) ([v2.0.4](https://github.com/FiniteLooper/SongShowPlus-parser/releases/tag/v2.0.4), 2 weeks ago) - Parses and extracts data from SongShow Plus files
 - [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) ([v1.1.5](https://github.com/FiniteLooper/OpenLyrics-parser/releases/tag/v1.1.5), 1 month ago) - Parses and extract data from OpenLyrics XML files.
 - [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) ([v1.0.2](https://github.com/FiniteLooper/ProPresenter-Parser/releases/tag/v1.0.2), 1 month ago) - Parses ProPresenter files, and builds new ProPresenter files
 - [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) ([v0.1.2](https://github.com/SongProOrg/songpro-javascript/releases/tag/v0.1.2), 3 months ago) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats.
 
 ### Latest Pull Requests
 
-- [Add support for Vimeo videos](https://github.com/MurhafSousli/ngx-gallery/pull/575) on [MurhafSousli/ngx-gallery](https://github.com/MurhafSousli/ngx-gallery) (2 weeks ago)
+- [Add support for Vimeo videos](https://github.com/MurhafSousli/ngx-gallery/pull/575) on [MurhafSousli/ngx-gallery](https://github.com/MurhafSousli/ngx-gallery) (3 weeks ago)
 - [Create dependabot.yml](https://github.com/FiniteLooper/LyricConverter/pull/14) on [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) (1 month ago)
 - [Redesign](https://github.com/FiniteLooper/chrisbarr.me/pull/1) on [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) (2 months ago)
 - [Better Module Setup](https://github.com/SongProOrg/songpro-javascript/pull/36) on [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) (3 months ago)
