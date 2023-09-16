@@ -16,17 +16,6 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
-### Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
-{{- end}}
-
-### Latest Pull Requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-
 ## My Stats
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FiniteLooper&theme=github_dark"
