@@ -13,11 +13,11 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
+- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (1 day ago)
 - [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (1 day ago)
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (2 days ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 week ago)
+- [FiniteLooper/recruiting-hell](https://github.com/FiniteLooper/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments (2 days ago)
 - [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (1 week ago)
-- [FiniteLooper/npm-typescript-with-html-reporter-template](https://github.com/FiniteLooper/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (1 week ago)
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 week ago)
 
 ## My Stats
 <img
