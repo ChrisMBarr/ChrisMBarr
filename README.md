@@ -13,11 +13,11 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (3 days ago)
-- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (3 days ago)
-- [FiniteLooper/recruiting-hell](https://github.com/FiniteLooper/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments (4 days ago)
-- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (1 week ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 week ago)
+- [FiniteLooper/udemy-angular-course](https://github.com/FiniteLooper/udemy-angular-course) - This is a project for me to code alongside this Udemy course as I go through it: https://www.udemy.com/course/the-complete-guide-to-angular-2 (1 day ago)
+- [FiniteLooper/udemy-nestjs-course](https://github.com/FiniteLooper/udemy-nestjs-course) - This is a project for me to code alongside this Udemy course as I go through it: https://www.udemy.com/course/nestjs-zero-to-hero (1 day ago)
+- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (4 days ago)
+- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (4 days ago)
+- [FiniteLooper/recruiting-hell](https://github.com/FiniteLooper/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments (5 days ago)
 
 ## My Stats
 <img
