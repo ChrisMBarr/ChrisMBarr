@@ -13,11 +13,11 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/recruiting-hell](https://github.com/FiniteLooper/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments (1 day ago)
-- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (2 days ago)
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (3 days ago)
-- [FiniteLooper/udemy-nestjs-course](https://github.com/FiniteLooper/udemy-nestjs-course) - This is a project for me to code alongside this Udemy course as I go through it: https://www.udemy.com/course/nestjs-zero-to-hero (3 days ago)
-- [FiniteLooper/udemy-angular-course](https://github.com/FiniteLooper/udemy-angular-course) - This is a project for me to code alongside this Udemy course as I go through it: https://www.udemy.com/course/the-complete-guide-to-angular-2 (1 week ago)
+- [FiniteLooper/Tokenizr](https://github.com/FiniteLooper/Tokenizr) - Simple token replacement for text. Useful for common text that only needs to change in small ways (1 day ago)
+- [FiniteLooper/recruiting-hell](https://github.com/FiniteLooper/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments (2 days ago)
+- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (3 days ago)
+- [FiniteLooper/udemy-nestjs-course](https://github.com/FiniteLooper/udemy-nestjs-course) - This is a project for me to code alongside this Udemy course as I go through it: https://www.udemy.com/course/nestjs-zero-to-hero (4 days ago)
+- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (4 days ago)
 
 ## My Stats
 <img
