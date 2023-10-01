@@ -14,10 +14,10 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 ## What I'm currently working on
 
 - [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (1 day ago)
-- [FiniteLooper/Tokenizr](https://github.com/FiniteLooper/Tokenizr) - Simple token replacement for text. Useful for common text that only needs to change in small ways (2 days ago)
-- [FiniteLooper/recruiting-hell](https://github.com/FiniteLooper/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments (3 days ago)
-- [FiniteLooper/udemy-nestjs-course](https://github.com/FiniteLooper/udemy-nestjs-course) - This is a project for me to code alongside this Udemy course as I go through it: https://www.udemy.com/course/nestjs-zero-to-hero (5 days ago)
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (5 days ago)
+- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (1 day ago)
+- [FiniteLooper/Tokenizr](https://github.com/FiniteLooper/Tokenizr) - Simple token replacement for text. Useful for common text that only needs to change in small ways (3 days ago)
+- [FiniteLooper/recruiting-hell](https://github.com/FiniteLooper/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments (4 days ago)
+- [FiniteLooper/udemy-nestjs-course](https://github.com/FiniteLooper/udemy-nestjs-course) - This is a project for me to code alongside this Udemy course as I go through it: https://www.udemy.com/course/nestjs-zero-to-hero (6 days ago)
 
 ## My Stats
 <img
