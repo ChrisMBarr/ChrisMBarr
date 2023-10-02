@@ -13,11 +13,11 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
+- [FiniteLooper/npm-typescript-with-html-reporter-template](https://github.com/FiniteLooper/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (1 day ago)
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 day ago)
+- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (1 day ago)
+- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (1 day ago)
 - [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (1 day ago)
-- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (1 day ago)
-- [FiniteLooper/Tokenizr](https://github.com/FiniteLooper/Tokenizr) - Simple token replacement for text. Useful for common text that only needs to change in small ways (3 days ago)
-- [FiniteLooper/recruiting-hell](https://github.com/FiniteLooper/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments (4 days ago)
-- [FiniteLooper/udemy-nestjs-course](https://github.com/FiniteLooper/udemy-nestjs-course) - This is a project for me to code alongside this Udemy course as I go through it: https://www.udemy.com/course/nestjs-zero-to-hero (6 days ago)
 
 ## My Stats
 <img
