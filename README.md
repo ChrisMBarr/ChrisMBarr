@@ -13,10 +13,10 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/Tokenizr](https://github.com/FiniteLooper/Tokenizr) - Simple token replacement for text. Useful for common text that only needs to change in small ways (4 days ago)
-- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (4 days ago)
-- [FiniteLooper/recruiting-hell](https://github.com/FiniteLooper/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments (5 days ago)
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (1 week ago)
+- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (1 day ago)
+- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (2 days ago)
+- [FiniteLooper/Tokenizr](https://github.com/FiniteLooper/Tokenizr) - Simple token replacement for text. Useful for common text that only needs to change in small ways (5 days ago)
+- [FiniteLooper/recruiting-hell](https://github.com/FiniteLooper/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments (6 days ago)
 - [SongProOrg/songpro-javascript](https://github.com/SongProOrg/songpro-javascript) - A Javascript package to convert SongPro songs to a Javascript object used to generate various output formats. (1 week ago)
 
 ## My Stats
