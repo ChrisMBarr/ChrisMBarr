@@ -13,11 +13,11 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (1 day ago)
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (4 days ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (4 days ago)
-- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (4 days ago)
-- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) (5 days ago)
+- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (2 days ago)
+- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (5 days ago)
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (5 days ago)
+- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (5 days ago)
+- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) (6 days ago)
 
 ## My Stats
 <img
