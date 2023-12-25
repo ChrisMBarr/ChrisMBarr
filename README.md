@@ -13,11 +13,11 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (2 days ago)
-- [FiniteLooper/npm-typescript-with-html-reporter-template](https://github.com/FiniteLooper/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (6 days ago)
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (6 days ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (6 days ago)
-- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (6 days ago)
+- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (3 days ago)
+- [FiniteLooper/npm-typescript-with-html-reporter-template](https://github.com/FiniteLooper/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (1 week ago)
+- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (1 week ago)
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 week ago)
+- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (1 week ago)
 
 ## My Stats
 <img
