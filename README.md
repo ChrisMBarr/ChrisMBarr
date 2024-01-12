@@ -14,10 +14,10 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 ## What I'm currently working on
 
 - [FiniteLooper/debbiebarr.com](https://github.com/FiniteLooper/debbiebarr.com) - Debbie Barr's Website (1 day ago)
-- [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback. (1 day ago)
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (3 days ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 week ago)
-- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (1 week ago)
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 day ago)
+- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (1 day ago)
+- [FiniteLooper/npm-typescript-template](https://github.com/FiniteLooper/npm-typescript-template) - A template repo for NPM packages written in TypeScript. This is a good starting point for lot of projects (1 day ago)
+- [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback. (2 days ago)
 
 ## My Stats
 <img
