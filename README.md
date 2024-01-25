@@ -14,10 +14,10 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 ## What I'm currently working on
 
 - [FiniteLooper/debbiebarr.com](https://github.com/FiniteLooper/debbiebarr.com) - Debbie Barr's Website (1 day ago)
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (2 days ago)
-- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (4 days ago)
-- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (4 days ago)
-- [FiniteLooper/npm-typescript-template](https://github.com/FiniteLooper/npm-typescript-template) - A template repo for NPM packages written in TypeScript. This is a good starting point for lot of projects (1 week ago)
+- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (3 days ago)
+- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (5 days ago)
+- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (5 days ago)
+- [FiniteLooper/npm-typescript-template](https://github.com/FiniteLooper/npm-typescript-template) - A template repo for NPM packages written in TypeScript. This is a good starting point for lot of projects (2 weeks ago)
 
 ## My Stats
 <img
