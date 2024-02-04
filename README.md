@@ -13,11 +13,11 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (1 day ago)
-- [FiniteLooper/debbiebarr.com](https://github.com/FiniteLooper/debbiebarr.com) - Debbie Barr's Website (1 day ago)
-- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (1 day ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (1 day ago)
-- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (2 days ago)
+- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (2 days ago)
+- [FiniteLooper/debbiebarr.com](https://github.com/FiniteLooper/debbiebarr.com) - Debbie Barr's Website (2 days ago)
+- [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (2 days ago)
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (2 days ago)
+- [FiniteLooper/SongShowPlus-parser](https://github.com/FiniteLooper/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (3 days ago)
 
 ## My Stats
 <img
