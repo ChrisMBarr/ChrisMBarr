@@ -13,10 +13,10 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [FiniteLooper/debbiebarr.com](https://github.com/FiniteLooper/debbiebarr.com) - Debbie Barr's Website (2 days ago)
-- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (3 days ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (3 days ago)
-- [FiniteLooper/unit-testing-kata](https://github.com/FiniteLooper/unit-testing-kata) - Learn how to write unit tests! (4 days ago)
+- [FiniteLooper/debbiebarr.com](https://github.com/FiniteLooper/debbiebarr.com) - Debbie Barr's Website (3 days ago)
+- [FiniteLooper/ProPresenter-Parser](https://github.com/FiniteLooper/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (4 days ago)
+- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (4 days ago)
+- [FiniteLooper/unit-testing-kata](https://github.com/FiniteLooper/unit-testing-kata) - Learn how to write unit tests! (5 days ago)
 - [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (1 week ago)
 
 ## My Stats
