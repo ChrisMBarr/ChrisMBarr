@@ -13,11 +13,11 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
+- [FiniteLooper/udemy-rxjs-reactive-angular](https://github.com/FiniteLooper/udemy-rxjs-reactive-angular) - This is a project for me to code alongside this Udemy course as I go through it: https://udemy.com/course/rxjs-reactive-angular-course (1 day ago)
+- [FiniteLooper/debbiebarr.com](https://github.com/FiniteLooper/debbiebarr.com) - Debbie Barr's Website (1 day ago)
+- [FiniteLooper/UserScripts](https://github.com/FiniteLooper/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (1 day ago)
 - [FiniteLooper/chrisbarr.me](https://github.com/FiniteLooper/chrisbarr.me) - My Website (2 weeks ago)
-- [FiniteLooper/npm-typescript-with-html-reporter-template](https://github.com/FiniteLooper/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (2 weeks ago)
-- [FiniteLooper/noise-maker](https://github.com/FiniteLooper/noise-maker) - Makes noise based SVG patterns/textures (2 weeks ago)
-- [FiniteLooper/npm-typescript-template](https://github.com/FiniteLooper/npm-typescript-template) - A template repo for NPM packages written in TypeScript. This is a good starting point for lot of projects (2 weeks ago)
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files! (2 weeks ago)
+- [FiniteLooper/OpenLyrics-parser](https://github.com/FiniteLooper/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (2 weeks ago)
 
 ## My Stats
 <img
