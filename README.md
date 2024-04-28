@@ -13,11 +13,11 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [chrismbarr/chrismbarr.github.io](https://github.com/chrismbarr/chrismbarr.github.io) (today)
-- [chrismbarr/FiniteLooper](https://github.com/chrismbarr/FiniteLooper) - Auto-generating README file every day to update my profile with my latest github stuff (today)
-- [chrismbarr/udemy-rxjs-reactive-angular](https://github.com/chrismbarr/udemy-rxjs-reactive-angular) - This is a project for me to code alongside this Udemy course as I go through it: https://udemy.com/course/rxjs-reactive-angular-course (today)
-- [chrismbarr/chrisbarr.me](https://github.com/chrismbarr/chrisbarr.me) - My Website (1 day ago)
-- [chrismbarr/LyricConverter](https://github.com/chrismbarr/LyricConverter) - The universal translator & converter for song presentation files! (2 days ago)
+- [ChrisMBarr/SongShowPlus-parser](https://github.com/ChrisMBarr/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (1 day ago)
+- [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (1 day ago)
+- [ChrisMBarr/npm-typescript-template](https://github.com/ChrisMBarr/npm-typescript-template) - A template repo for NPM packages written in TypeScript. This is a good starting point for lot of projects (1 day ago)
+- [ChrisMBarr/npm-typescript-with-html-reporter-template](https://github.com/ChrisMBarr/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (1 day ago)
+- [ChrisMBarr/UserScripts](https://github.com/ChrisMBarr/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (1 day ago)
 
 ## My Stats
 <img
