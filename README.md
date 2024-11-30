@@ -13,10 +13,10 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (5 days ago)
-- [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (6 days ago)
-- [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (3 weeks ago)
-- [ChrisMBarr/debbiebarr.com](https://github.com/ChrisMBarr/debbiebarr.com) - Debbie Barr's Website (3 weeks ago)
+- [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (1 day ago)
+- [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (1 week ago)
+- [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (4 weeks ago)
+- [ChrisMBarr/debbiebarr.com](https://github.com/ChrisMBarr/debbiebarr.com) - Debbie Barr's Website (4 weeks ago)
 - [ChrisMBarr/OpenLyrics-parser](https://github.com/ChrisMBarr/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (4 weeks ago)
 
 ## My Stats
