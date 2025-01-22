@@ -16,8 +16,8 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 - [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (2 weeks ago)
 - [ChrisMBarr/ProPresenter-Parser](https://github.com/ChrisMBarr/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (2 weeks ago)
 - [ChrisMBarr/noise-maker](https://github.com/ChrisMBarr/noise-maker) - Makes noise based SVG patterns/textures (2 weeks ago)
-- [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (2 weeks ago)
 - [ChrisMBarr/SongShowPlus-parser](https://github.com/ChrisMBarr/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (2 weeks ago)
+- [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (2 weeks ago)
 
 ## My Stats
 <img
