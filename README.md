@@ -13,9 +13,9 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [ChrisMBarr/udemy-angular-testing-masterclass](https://github.com/ChrisMBarr/udemy-angular-testing-masterclass) - This is a project for me to code alongside this Udemy course as I go through it: https://udemy.com/course/angular-testing-course (1 day ago)
-- [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (3 days ago)
-- [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (3 days ago)
+- [ChrisMBarr/udemy-angular-testing-masterclass](https://github.com/ChrisMBarr/udemy-angular-testing-masterclass) - This is a project for me to code alongside this Udemy course as I go through it: https://udemy.com/course/angular-testing-course (2 days ago)
+- [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (4 days ago)
+- [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (4 days ago)
 - [ChrisMBarr/ProPresenter-Parser](https://github.com/ChrisMBarr/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (3 weeks ago)
 - [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (3 weeks ago)
 
