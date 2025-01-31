@@ -13,7 +13,7 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [ChrisMBarr/udemy-angular-testing-masterclass](https://github.com/ChrisMBarr/udemy-angular-testing-masterclass) - This is a project for me to code alongside this Udemy course as I go through it: https://udemy.com/course/angular-testing-course (5 days ago)
+- [ChrisMBarr/udemy-angular-testing-masterclass](https://github.com/ChrisMBarr/udemy-angular-testing-masterclass) - This is a project for me to code alongside this Udemy course as I go through it: https://udemy.com/course/angular-testing-course (6 days ago)
 - [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (1 week ago)
 - [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (1 week ago)
 - [ChrisMBarr/noise-maker](https://github.com/ChrisMBarr/noise-maker) - Makes noise based SVG patterns/textures (4 weeks ago)
