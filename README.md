@@ -13,11 +13,11 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
+- [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (1 day ago)
 - [ChrisMBarr/debbiebarr.com](https://github.com/ChrisMBarr/debbiebarr.com) - Debbie Barr's Website (2 weeks ago)
 - [ChrisMBarr/udemy-angular-testing-masterclass](https://github.com/ChrisMBarr/udemy-angular-testing-masterclass) - This is a project for me to code alongside this Udemy course as I go through it: https://udemy.com/course/angular-testing-course (3 weeks ago)
-- [ChrisMBarr/ProPresenter-Parser](https://github.com/ChrisMBarr/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (3 weeks ago)
-- [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (3 weeks ago)
-- [ChrisMBarr/noise-maker](https://github.com/ChrisMBarr/noise-maker) - Makes noise based SVG patterns/textures (3 weeks ago)
+- [ChrisMBarr/ProPresenter-Parser](https://github.com/ChrisMBarr/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (4 weeks ago)
+- [ChrisMBarr/noise-maker](https://github.com/ChrisMBarr/noise-maker) - Makes noise based SVG patterns/textures (4 weeks ago)
 
 ## My Stats
 <img
