@@ -13,8 +13,8 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (4 days ago)
-- [Landmark-Analytics/darrellbarr-phd-public-web](https://github.com/Landmark-Analytics/darrellbarr-phd-public-web) (5 days ago)
+- [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (5 days ago)
+- [Landmark-Analytics/darrellbarr-phd-public-web](https://github.com/Landmark-Analytics/darrellbarr-phd-public-web) (6 days ago)
 - [ChrisMBarr/udemy-code-art](https://github.com/ChrisMBarr/udemy-code-art) - This is a project for me to code alongside this Udemy course as I go through it: https://udemy.com/course/code-art (1 week ago)
 - [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (1 week ago)
 - [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (2 weeks ago)
