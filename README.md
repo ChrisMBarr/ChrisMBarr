@@ -13,7 +13,7 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [ChrisMBarr/prettier-issue-725-reproduction](https://github.com/ChrisMBarr/prettier-issue-725-reproduction) - Reproduction for https://github.com/prettier/eslint-plugin-prettier/issues/725 (2 weeks ago)
+- [ChrisMBarr/prettier-issue-725-reproduction](https://github.com/ChrisMBarr/prettier-issue-725-reproduction) - Reproduction for https://github.com/prettier/eslint-plugin-prettier/issues/725 (3 weeks ago)
 - [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (3 weeks ago)
 - [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (4 weeks ago)
 - [ChrisMBarr/ProPresenter-Parser](https://github.com/ChrisMBarr/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (4 weeks ago)
