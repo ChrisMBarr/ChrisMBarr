@@ -13,8 +13,8 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [darraghoriordan/eslint-plugin-nestjs-typed](https://github.com/darraghoriordan/eslint-plugin-nestjs-typed) - Some eslint rules for working with NestJs projects (2 days ago)
-- [ChrisMBarr/angular-cli-issue-30374-reproduction](https://github.com/ChrisMBarr/angular-cli-issue-30374-reproduction) - Reproduction of bug in https://github.com/angular/angular-cli/issues/30374 (6 days ago)
+- [darraghoriordan/eslint-plugin-nestjs-typed](https://github.com/darraghoriordan/eslint-plugin-nestjs-typed) - Some eslint rules for working with NestJs projects (1 day ago)
+- [ChrisMBarr/angular-cli-issue-30374-reproduction](https://github.com/ChrisMBarr/angular-cli-issue-30374-reproduction) - Reproduction of bug in https://github.com/angular/angular-cli/issues/30374 (1 week ago)
 - [ChrisMBarr/noise-maker](https://github.com/ChrisMBarr/noise-maker) - Makes noise based SVG patterns/textures (1 week ago)
 - [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (1 week ago)
 - [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (1 week ago)
