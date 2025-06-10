@@ -13,11 +13,11 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [ChrisMBarr/udemy-code-art](https://github.com/ChrisMBarr/udemy-code-art) - This is a project for me to code alongside this Udemy course as I go through it: https://udemy.com/course/code-art (5 days ago)
+- [ChrisMBarr/udemy-code-art](https://github.com/ChrisMBarr/udemy-code-art) - This is a project for me to code alongside this Udemy course as I go through it: https://udemy.com/course/code-art (6 days ago)
 - [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (1 week ago)
 - [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (1 week ago)
 - [ChrisMBarr/ProPresenter-Parser](https://github.com/ChrisMBarr/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (1 week ago)
-- [ChrisMBarr/SongShowPlus-parser](https://github.com/ChrisMBarr/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (1 week ago)
+- [ChrisMBarr/noise-maker](https://github.com/ChrisMBarr/noise-maker) - Makes noise based SVG patterns/textures (1 week ago)
 
 ## My Stats
 <img
