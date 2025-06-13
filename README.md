@@ -15,9 +15,9 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 - [ChrisMBarr/debbiebarr.com](https://github.com/ChrisMBarr/debbiebarr.com) - Debbie Barr's Website (1 day ago)
 - [ChrisMBarr/udemy-code-art](https://github.com/ChrisMBarr/udemy-code-art) - This is a project for me to code alongside this Udemy course as I go through it: https://udemy.com/course/code-art (1 week ago)
+- [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (1 week ago)
 - [ChrisMBarr/noise-maker](https://github.com/ChrisMBarr/noise-maker) - Makes noise based SVG patterns/textures (1 week ago)
 - [ChrisMBarr/SongShowPlus-parser](https://github.com/ChrisMBarr/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (1 week ago)
-- [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (1 week ago)
 
 ## My Stats
 <img
