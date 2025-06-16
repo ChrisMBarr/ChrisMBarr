@@ -14,10 +14,10 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 ## What I'm currently working on
 
 - [ChrisMBarr/UserScripts](https://github.com/ChrisMBarr/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (1 day ago)
-- [ChrisMBarr/debbiebarr.com](https://github.com/ChrisMBarr/debbiebarr.com) - Debbie Barr's Website (3 days ago)
+- [Thorvarium/vine-styling](https://github.com/Thorvarium/vine-styling) - Styles to use with vine (2 days ago)
+- [ChrisMBarr/debbiebarr.com](https://github.com/ChrisMBarr/debbiebarr.com) - Debbie Barr's Website (4 days ago)
 - [ChrisMBarr/udemy-code-art](https://github.com/ChrisMBarr/udemy-code-art) - This is a project for me to code alongside this Udemy course as I go through it: https://udemy.com/course/code-art (1 week ago)
-- [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (1 week ago)
-- [ChrisMBarr/SongShowPlus-parser](https://github.com/ChrisMBarr/SongShowPlus-parser) - Parses and extracts data from SongShow Plus files (1 week ago)
+- [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (2 weeks ago)
 
 ## My Stats
 <img
