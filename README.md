@@ -13,9 +13,9 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
+- [ChrisMBarr/debbiebarr.com](https://github.com/ChrisMBarr/debbiebarr.com) - Debbie Barr's Website (1 day ago)
 - [ChrisMBarr/UserScripts](https://github.com/ChrisMBarr/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (1 week ago)
 - [Thorvarium/vine-styling](https://github.com/Thorvarium/vine-styling) - Styles to use with vine (1 week ago)
-- [ChrisMBarr/debbiebarr.com](https://github.com/ChrisMBarr/debbiebarr.com) - Debbie Barr's Website (1 week ago)
 - [ChrisMBarr/udemy-code-art](https://github.com/ChrisMBarr/udemy-code-art) - This is a project for me to code alongside this Udemy course as I go through it: https://udemy.com/course/code-art (2 weeks ago)
 - [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (3 weeks ago)
 
