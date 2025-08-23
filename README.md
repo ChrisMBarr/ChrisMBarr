@@ -13,11 +13,11 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [ChrisMBarr/ProPresenter-Parser](https://github.com/ChrisMBarr/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (3 days ago)
-- [Landmark-Analytics/NeuroDynamicsInstitute](https://github.com/Landmark-Analytics/NeuroDynamicsInstitute) (4 days ago)
-- [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (4 days ago)
-- [ChrisMBarr/npm-typescript-with-html-reporter-template](https://github.com/ChrisMBarr/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (1 week ago)
-- [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (1 week ago)
+- [ChrisMBarr/ProPresenter-Parser](https://github.com/ChrisMBarr/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (4 days ago)
+- [Landmark-Analytics/NeuroDynamicsInstitute](https://github.com/Landmark-Analytics/NeuroDynamicsInstitute) (5 days ago)
+- [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (5 days ago)
+- [ChrisMBarr/npm-typescript-with-html-reporter-template](https://github.com/ChrisMBarr/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (2 weeks ago)
+- [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (2 weeks ago)
 
 ## My Stats
 <img
