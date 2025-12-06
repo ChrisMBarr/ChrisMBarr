@@ -17,7 +17,7 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 - [Landmark-Analytics/NeuroDynamicsInstitute](https://github.com/Landmark-Analytics/NeuroDynamicsInstitute) (1 week ago)
 - [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (2 weeks ago)
 - [ChrisMBarr/noise-maker](https://github.com/ChrisMBarr/noise-maker) - Makes noise based SVG patterns/textures (3 weeks ago)
-- [ChrisMBarr/debbiebarr.com](https://github.com/ChrisMBarr/debbiebarr.com) - Debbie Barr's Website (3 weeks ago)
+- [ChrisMBarr/debbiebarr.com](https://github.com/ChrisMBarr/debbiebarr.com) - Debbie Barr's Website (4 weeks ago)
 
 ## My Stats
 <img
