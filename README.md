@@ -13,7 +13,7 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (3 weeks ago)
+- [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (4 weeks ago)
 - [Landmark-Analytics/NeuroDynamicsInstitute](https://github.com/Landmark-Analytics/NeuroDynamicsInstitute) (4 weeks ago)
 - [ChrisMBarr/chrisbarr.me](https://github.com/ChrisMBarr/chrisbarr.me) - My Website (1 month ago)
 - [ChrisMBarr/noise-maker](https://github.com/ChrisMBarr/noise-maker) - Makes noise based SVG patterns/textures (1 month ago)
