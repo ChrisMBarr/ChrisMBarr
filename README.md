@@ -13,8 +13,8 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [ChrisMBarr/npm-typescript-template](https://github.com/ChrisMBarr/npm-typescript-template) - A template repo for NPM packages written in TypeScript. This is a good starting point for lot of projects (4 weeks ago)
-- [ChrisMBarr/npm-typescript-with-html-reporter-template](https://github.com/ChrisMBarr/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (4 weeks ago)
+- [ChrisMBarr/npm-typescript-template](https://github.com/ChrisMBarr/npm-typescript-template) - A template repo for NPM packages written in TypeScript. This is a good starting point for lot of projects (1 month ago)
+- [ChrisMBarr/npm-typescript-with-html-reporter-template](https://github.com/ChrisMBarr/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (1 month ago)
 - [ChrisMBarr/noise-maker](https://github.com/ChrisMBarr/noise-maker) - Makes noise based SVG patterns/textures (1 month ago)
 - [ChrisMBarr/debbiebarr.com](https://github.com/ChrisMBarr/debbiebarr.com) - Debbie Barr's Website (1 month ago)
 - [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (1 month ago)
