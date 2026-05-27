@@ -17,7 +17,7 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 - [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (3 weeks ago)
 - [Landmark-Analytics/landmark-public-web](https://github.com/Landmark-Analytics/landmark-public-web) - The Landmark Analytics  Website (1 month ago)
 - [ChrisMBarr/UserScripts](https://github.com/ChrisMBarr/UserScripts) - A few Tampermonkey/Greasemonkey scripts I've made (3 months ago)
-- [ChrisMBarr/npm-typescript-template](https://github.com/ChrisMBarr/npm-typescript-template) - A template repo for NPM packages written in TypeScript. This is a good starting point for lot of projects (4 months ago)
+- [ChrisMBarr/npm-typescript-with-html-reporter-template](https://github.com/ChrisMBarr/npm-typescript-with-html-reporter-template) - A template repo for NPM packages written in TypeScript, with an added Jest HTML reporter. This is a good starting point for lot of projects  (4 months ago)
 
 ## My Stats
 <img
