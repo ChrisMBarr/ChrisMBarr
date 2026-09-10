@@ -13,8 +13,8 @@ I'm Chris. I'm a web application UI developer & designer who lives in Charlotte,
 
 ## What I'm currently working on
 
-- [ChrisMBarr/ProPresenter-Parser](https://github.com/ChrisMBarr/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (3 days ago)
-- [ChrisMBarr/OpenLyrics-parser](https://github.com/ChrisMBarr/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (3 days ago)
+- [ChrisMBarr/ProPresenter-Parser](https://github.com/ChrisMBarr/ProPresenter-Parser) - Parses ProPresenter files, and builds new ProPresenter files (4 days ago)
+- [ChrisMBarr/OpenLyrics-parser](https://github.com/ChrisMBarr/OpenLyrics-parser) - Parses and extract data from OpenLyrics XML files. (4 days ago)
 - [Landmark-Analytics/NeuroDynamicsInstitute](https://github.com/Landmark-Analytics/NeuroDynamicsInstitute) (3 weeks ago)
 - [ChrisMBarr/debbiebarr.com](https://github.com/ChrisMBarr/debbiebarr.com) - Debbie Barr's Website (1 month ago)
 - [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files! (4 months ago)
